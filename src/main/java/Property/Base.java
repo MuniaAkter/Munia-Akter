@@ -40,6 +40,13 @@ public class Base {
 		
 	}
 	
+	public void tryingItInGit() {
+		
+	}
+public void bhabi() {
+		
+	}
+	
 	@Test
 	public void tearDown() throws Exception {
 		Thread.sleep(3000);
